@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">tipTime</string>
+
+    <!-- txt en StarScreen -->
+    <string name="calculate_tip">Calcular propina</string>
+    <string name="calculate_desc">Calcular descuento</string>
+    <string name="what_now">¿Qué quieres hacer? </string>
+
+    <!-- DataSource woo -->
+    <string name="ten">10</string>
+    <string name="fifteen">15</string>
+    <string name="twenty">20</string>
+    <string name="twentyfive">25</string>
+    <string name="other">Otro</string>
+    <string name="percent"> por ciento</string>
+
+    <!-- txt en SelectDescScreen -->
+    <string name="priceNoDesc">Precio sin descuento:</string>
+    <string name="total">Total: $ %s</string>
+    <string name="back">Atrás</string>
+
+
+    <!-- txt en SelectTipScreen -->
+    <string name="priceNoTip">Precio sin propina:</string>
+
+
+    <string name="sample_bill"> Billetes</string>
+
+    <!-- txt en TipTime -->
+    <string name="cost_of_service">Cost of Service</string>
+    <string name="how_was_the_service">How was the service?</string>
+    <string name="amazing_service">Amazing (20%)</string>
+    <string name="good_service">Good (18%)</string>
+    <string name="okay_service">Okay (15%)</string>
+    <string name="tip_amount">Tip Amount: %s</string>
+    <string name="round_up_tip">Round up tip?</string>
+    <string name="calculate">Calculate</string>
+
+
+</resources>
